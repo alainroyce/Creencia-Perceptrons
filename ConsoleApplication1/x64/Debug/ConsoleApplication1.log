@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\alain\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alain\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\alain\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alain\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(229,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\alain\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
